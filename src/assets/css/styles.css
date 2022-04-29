@@ -1,0 +1,42 @@
+html,body {
+    background-color: white;
+    color: #000000;
+    font-family: "Segoe UI";
+  }
+  
+  .opcInput {
+      width: 100%;
+      margin: 10px 0px;
+      font-family: "Segoe UI Semibold";
+  }
+  
+  .prefInput {
+    clear: both;
+    overflow: hidden;
+      margin: 12px 0px;
+  }
+  
+  .cancelButton {
+    background-color: transparent !important;
+    color: #5c5c5c !important;
+    height: 35px !important;
+    display: flex !important;
+    align-items: center !important;
+  }
+  
+  .confirmButton {
+    height: 35px !important;
+    display: flex !important;
+    align-items: center !important;
+  }
+  .nombre{
+      font-family: 'Poppins', sans-serif;
+      font-size: 2em;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+  }
+  .col-sm-3 p{
+      display: flex;
+      justify-content: center;
+  }
